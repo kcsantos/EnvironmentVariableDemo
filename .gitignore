@@ -2,3 +2,4 @@
 /src/EnvironmentVariableDemo/bin
 /src/EnvironmentVariableDemo/obj
 /src/.vs
+/src/EnvironmentVariableDemo/ClientApp/package-lock.json
